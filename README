@@ -1,0 +1,8 @@
+##RUN
+1. To delete the object files and executable named warmup1.
+   >>make clean
+2. To compile the warmup1.
+   >>make warmup1   
+
+Header file: format.c
+Main file  : warmup1.c
